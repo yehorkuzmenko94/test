@@ -1,4 +1,4 @@
-test test test
+чо делать с конфилктом
 commit test
 чо по статусу
 
